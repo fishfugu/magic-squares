@@ -2,11 +2,7 @@
 
 ## Introduction
 
-Magic squares are mathematical structures where numbers are arranged in an:
-
-$$ n \times n $$
-
-grid such that the sum of the numbers in each row, each column, and both main diagonals are equal. This sum is called the magic constant.
+Magic squares are mathematical structures where numbers are arranged in an: $ n \times n $ grid such that the sum of the numbers in each row, each column, and both main diagonals are equal. This sum is called the magic constant.
 
 This project aims to develop a computational approach to finding magic squares, starting with basic random generation and progressing toward more efficient algorithms that can generate valid magic squares with constraints such as uniqueness and specific power conditions.
 
